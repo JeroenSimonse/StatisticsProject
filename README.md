@@ -24,11 +24,12 @@ library(mitools)
 library(wec)
 library(miceadds)
 library(MLmetrics)
-library(car)'
----
+
+--- 
 
 ## Usage
 The group32_syntax_file.R is the main code, the other .R files are functions that were provided by our professor. 
+
 ---
 
 ### Note
