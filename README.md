@@ -16,7 +16,7 @@ It must be noted that this project was a group project.
 
 ---
 
-## Techonologies
+## Technologies
 Project is coded in:
 R V4.0.3
 
