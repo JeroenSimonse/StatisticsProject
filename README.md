@@ -17,13 +17,13 @@ Project is coded in:
 R V4.0.3
 
 with the following libraries:
-library(mice)
-library(MASS)
-library(dplyr) 
-library(mitools)
-library(wec)
-library(miceadds)
-library(MLmetrics)
+* library(mice)
+* library(MASS)
+* library(dplyr) 
+* library(mitools)
+* library(wec)
+* library(miceadds)
+* library(MLmetrics)
 
 --- 
 
