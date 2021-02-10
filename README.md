@@ -6,9 +6,9 @@ This group project was made for our Statistics course and consisted of the follo
 	* Treat multivariat outliers
 	* Treat missing data
 2. Inferential modeling task
-	* Using MLP to asses if conservative attitudes are good or bad for your psychological well-being
+	* Using MLR to asses if conservative attitudes are good or bad for your psychological well-being
 3. Predictive modeling task
-	* Using MLP to predict satisfaction with life
+	* Using MLR to predict satisfaction with life
 Based on the dataset *Wave 6 of the World Values Survey*
 
 It must be noted that this project was a group project. 
