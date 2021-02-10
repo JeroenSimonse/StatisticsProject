@@ -8,9 +8,9 @@ This group project was made for our Statistics course and consisted of the follo
 2. Inferential modeling task
 	* Using MLR to asses if conservative attitudes are good or bad for your psychological well-being
 3. Predictive modeling task
-	* Using MLR to predict satisfaction with life
+	* Using MLR to predict how satisfied people are with life
 
-Based on the dataset *Wave 6 of the World Values Survey*
+Based on the dataset *Wave 6 of the World Values Survey*.
 
 It must be noted that this project was a group project. 
 
