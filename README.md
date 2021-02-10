@@ -1,5 +1,5 @@
 # General info
-This group project was made for our Statistics course and consisted of the following goals:
+This project was made for our Statistics course and consisted of the following goals:
 1. Data preparation
 	* Evaluate the extent of the missing data
 	* Treat univariate outliers
