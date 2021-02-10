@@ -10,6 +10,9 @@ This group project was made for our Statistics course and consisted of the follo
 3. Predictive modeling task
 	* Using MLP to predict satisfaction with life
 Based on the dataset *Wave 6 of the World Values Survey*
+
+It must be noted that this project was a group project. 
+
 ---
 
 ## Techonologies
